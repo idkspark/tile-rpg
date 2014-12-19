@@ -1,0 +1,11 @@
+Tile game
+
+functions:
+-display map
+-move
+-fight
+-save/load
+
+world will be stored as a 2d array of tiles.
+Each tile will have a terrain type, and zero to nine entities
+
